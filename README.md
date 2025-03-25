@@ -2,6 +2,10 @@
 
 A modern Next.js application for browsing, searching, and uploading subtitles with TMDB integration and user authentication. This project provides a platform similar to Subscene where users can find and share subtitles for movies and TV shows.
 
+## Screenshots
+
+![Homepage](public/screenshots/HomePage.png)
+
 ## 🌟 Features
 
 - **User Authentication**: Register, login, and user account management
