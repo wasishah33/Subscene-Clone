@@ -1,8 +1,15 @@
 # Subscene - Subtitle Sharing Platform
 
+[![Next.js](https://img.shields.io/badge/Next.js-15.2.3-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19.0.0-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18.18.0+-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12+-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 A modern Next.js application for browsing, searching, and uploading subtitles with TMDB integration and user authentication. This project provides a platform similar to Subscene where users can find and share subtitles for movies and TV shows.
 
-## Screenshots
+## 📸 Screenshots
 
 ![Homepage](public/screenshots/HomePage.png)
 
@@ -37,8 +44,8 @@ A modern Next.js application for browsing, searching, and uploading subtitles wi
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/subscene.git
-cd subscene
+git clone https://github.com/wasishah33/Subscene-Clone.git
+cd Subscene-Clone
 ```
 
 2. **Install dependencies**
